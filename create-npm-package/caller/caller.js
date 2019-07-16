@@ -1,3 +1,3 @@
-const print = require("../frame-print");
+const print = require("cole-frame-print");
 
 print("Hello World");
