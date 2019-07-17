@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-practices",
+  "version": "1.0.0",
+  "dependencies": {
+    "cole-frame-print": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
